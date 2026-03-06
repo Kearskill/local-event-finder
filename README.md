@@ -48,3 +48,9 @@ Join our community of developers creating universal apps.
 
 - [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
 - [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+
+
+
+ Project reset complete. Next steps:
+1. Run `npx expo start` to start a development server.
+2. Edit app/index.tsx to edit the main screen
