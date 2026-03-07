@@ -1,0 +1,1 @@
+// src\screens\home\card.tsx
